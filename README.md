@@ -1,2 +1,2 @@
 # WiFi Password Wordlist
-This is my custom wordlist for WiFi passwords, specifically WiFi in Indonesia. You can use Wifite tools in Kali Linux or any program to use this wordlist.
+This is my custom wordlist for WiFi passwords, tailored specifically for WiFi networks in Indonesia. You can employ Wifite tools on Kali Linux or any compatible program to utilize this wordlist.
