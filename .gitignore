@@ -1,0 +1,7 @@
+# Python — exclude all Python files except the main processing script
+*.py
+!process_wordlist.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
