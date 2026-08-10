@@ -2,6 +2,10 @@
 
 This repository contains a comprehensive WiFi password wordlist, designed for security testing, auditing, and educational purposes.
 
+## Related Project — Handshake Cracker
+
+Want to actually use this wordlist to crack a captured WPA/WPA2/WPA3 handshake? Check out **[Mysteriza/handshakeCracker](https://github.com/Mysteriza/handshakeCracker)** — a companion tool that cracks WiFi handshakes using this wordlist.
+
 ## Overview
 
 The wordlist `wifi-wordlist.txt` was created by merging specialized wordlists with the well-known `rockyou.txt` dictionary, yielding a highly effective and broad-coverage wordlist for WPA/WPA2/WPA3 cracking.
