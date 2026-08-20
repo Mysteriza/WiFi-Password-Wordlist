@@ -53,13 +53,8 @@ Additional wordlists suitable for WiFi password cracking (filtered to 8–63 cha
 
 | Source | Description | Size |
 |--------|-------------|------|
-| [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) — WPA-Length | Real passwords filtered to 8–40 chars, sorted by probability | 4.27 GB (7z) |
-| [kennyn510/wpa2-wordlists](https://github.com/kennyn510/wpa2-wordlists) | Collection with prep script for 8–63 char filtering | Various |
 | [WeakPass — weakpass_2_wifi](https://weakpass.com/wordlists/weakpass_2_wifi) | Curated WiFi-focused wordlist | ~1 GB+ |
-| [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) | Massive general-purpose dictionary (pre-filter for WiFi length) | 15 GB |
-| [Mysteriza/WiFi-Password-Wordlist](https://github.com/Mysteriza/WiFi-Password-Wordlist) | Indonesia-focused WiFi wordlist | Custom |
-
-> **Recommendation**: For the best additional coverage, download **berzerk0's Real-WPA-Passwords** (torrent available in their repo) — it's already filtered to WPA length and sorted by probability.
+| [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) RECOMMENDED | Massive general-purpose dictionary (pre-filter for WiFi length) | 15 GB |
 
 ## Disclaimer
 
