@@ -53,8 +53,8 @@ Additional wordlists suitable for WiFi password cracking (filtered to 8–63 cha
 
 | Source | Description | Size |
 |--------|-------------|------|
-| [WeakPass — weakpass_2_wifi](https://weakpass.com/wordlists/weakpass_2_wifi) | Curated WiFi-focused wordlist | ~1 GB+ |
-| [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) RECOMMENDED | Massive general-purpose dictionary (pre-filter for WiFi length) | 15 GB |
+| [WeakPass — weakpass_2_wifi](https://weakpass.com/wordlists/weakpass_2_wifi) RECOMMENDED | Curated WiFi-focused wordlist | 26.41 GB (2.35B Passwords) |
+| [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)  | Massive general-purpose dictionary (pre-filter for WiFi length) | 15 GB (1.5B Passwords) |
 
 ## Disclaimer
 
